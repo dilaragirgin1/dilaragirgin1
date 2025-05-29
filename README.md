@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Dilara
 
-🎓 Management Information Systems @ Medipol University  
 💻 Backend Developer | .NET | PostgreSQL | API Design  
 🌍 Passionate about scalable systems, microservices, and clean architecture
 
