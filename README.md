@@ -26,11 +26,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilaragirgin1&show_icons=true&theme=github_dark&hide_title=true)
-
----
 
 ### 📫 Connect with me
 
