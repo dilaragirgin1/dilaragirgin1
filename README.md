@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Dilara Girgin
 
-🎓 Management Information Systems @ Medipol University  
 💻 Backend Developer | .NET | PostgreSQL | API Design  
 🚀 Passionate about microservices, scalable architecture, and clean code  
 🧠 Always learning, always building.
